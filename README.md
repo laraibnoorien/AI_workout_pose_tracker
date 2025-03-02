@@ -39,14 +39,6 @@ Install the required dependencies using:
 
 pip install opencv-python mediapipe numpy tensorflow pygame
 
-or
-
-pip install opencv-python
-pip install mediapipe
-pip install numpy
-pip install tensorflow
-pip install keras
-pip install pygame
 
 
 Usage: 
@@ -94,6 +86,8 @@ Workout plan suggestion based on goal, interests and healt issues if any
 
 
 
+
+
 Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
@@ -101,6 +95,8 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 License
 
 This project is licensed under the MIT License.
+
+
 
 
 
